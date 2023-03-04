@@ -1,0 +1,22 @@
+{
+	"name": "Medi Olx",
+	"short_name": "Medi Olx",
+	"start_url": "index.html",
+	"display": "standalone",
+	"background_color": "#5900b3",
+	"theme_color": "black",
+	"scope": ".",
+	"description":"This is a PWA tutorial.",
+	"icons":[
+	{
+	"src":"icons/gfg.png",
+	"sizes":"192x192",
+	"type":"image/png"
+	},
+	{
+	"src":"icons/gfg-logo.png",
+	"sizes":"512x512",
+	"type":"image/png"
+	}
+]
+}
